@@ -1,0 +1,501 @@
+Employee_ID,Department,Gender,Age,Experience_Years,Education,Job_Level,Salary
+E001,Sales,Male,29,0,Master,Junior,43000
+E002,Sales,Male,56,5,Master,Mid,58000
+E003,HR,Female,54,1,Bachelor,Junior,58000
+E004,HR,Male,50,18,Bachelor,Manager,129000
+E005,Sales,Male,49,10,Bachelor,Senior,95000
+E006,IT,Male,46,3,Bachelor,Junior,65000
+E007,Sales,Female,51,17,Bachelor,Manager,117000
+E008,Data Science,Male,45,18,Bachelor,Manager,126000
+E009,Data Science,Female,40,2,Master,Junior,78000
+E010,Sales,Male,45,5,Bachelor,Mid,68000
+E011,Operations,Female,32,8,Master,Senior,89000
+E012,Sales,Male,57,14,Master,Manager,131000
+E013,Data Science,Female,42,12,Bachelor,Senior,136000
+E014,HR,Female,53,25,Master,Manager,168000
+E015,HR,Female,37,8,Master,Senior,94000
+E016,HR,Male,30,8,Bachelor,Senior,80000
+E017,HR,Female,32,10,Bachelor,Senior,86000
+E018,Operations,Male,51,16,Bachelor,Manager,118000
+E019,Sales,Female,56,17,Master,Manager,134000
+E020,HR,Male,51,0,PhD,Junior,59000
+E021,Operations,Male,28,4,Master,Mid,68000
+E022,Finance,Female,32,8,PhD,Senior,95000
+E023,Marketing,Male,23,0,Master,Junior,46000
+E024,HR,Male,58,5,Bachelor,Mid,58000
+E025,HR,Male,52,10,Bachelor,Senior,98000
+E026,Operations,Female,34,11,Bachelor,Senior,112000
+E027,Marketing,Female,55,28,Bachelor,Manager,148000
+E028,IT,Male,57,14,Master,Manager,106000
+E029,IT,Female,24,2,Bachelor,Junior,62000
+E030,HR,Male,56,8,Master,Senior,99000
+E031,Data Science,Female,52,26,Bachelor,Manager,191000
+E032,Finance,Male,49,13,Bachelor,Manager,116000
+E033,IT,Male,47,23,Bachelor,Manager,145000
+E034,HR,Female,56,28,Bachelor,Manager,152000
+E035,HR,Male,26,3,Master,Junior,49000
+E036,IT,Female,37,5,Bachelor,Mid,75000
+E037,IT,Female,32,6,Bachelor,Mid,81000
+E038,Finance,Female,49,22,PhD,Manager,189000
+E039,HR,Male,34,4,Bachelor,Mid,68000
+E040,Sales,Male,42,1,Bachelor,Junior,66000
+E041,IT,Male,54,5,Master,Mid,69000
+E042,Marketing,Male,29,3,Bachelor,Junior,62000
+E043,Marketing,Female,58,33,Bachelor,Manager,172000
+E044,HR,Female,38,12,Bachelor,Senior,103000
+E045,Finance,Male,26,0,Bachelor,Junior,39000
+E046,Operations,Male,35,8,Bachelor,Senior,75000
+E047,Finance,Female,40,5,Bachelor,Mid,84000
+E048,Operations,Male,55,0,Master,Junior,60000
+E049,HR,Female,38,3,Master,Junior,58000
+E050,Finance,Female,35,11,Bachelor,Senior,115000
+E051,Operations,Female,53,16,Master,Manager,126000
+E052,Data Science,Female,39,1,Bachelor,Junior,61000
+E053,HR,Male,50,17,Master,Manager,128000
+E054,Sales,Female,31,8,Bachelor,Senior,79000
+E055,HR,Female,24,2,Bachelor,Junior,42000
+E056,HR,Male,37,3,Bachelor,Junior,57000
+E057,HR,Female,32,2,Master,Junior,66000
+E058,Data Science,Male,48,25,Master,Manager,200000
+E059,Data Science,Female,28,6,Master,Mid,93000
+E060,Finance,Female,41,7,Bachelor,Mid,76000
+E061,Finance,Female,39,2,PhD,Junior,75000
+E062,Sales,Female,56,21,Master,Manager,132000
+E063,IT,Female,28,6,Bachelor,Mid,89000
+E064,Operations,Female,54,7,Bachelor,Mid,72000
+E065,IT,Male,49,0,Bachelor,Junior,72000
+E066,Finance,Male,49,2,PhD,Junior,66000
+E067,Sales,Female,41,16,Bachelor,Manager,131000
+E068,Sales,Male,40,17,Bachelor,Manager,138000
+E069,Operations,Female,58,19,Bachelor,Manager,118000
+E070,HR,Female,49,25,Bachelor,Manager,168000
+E071,Marketing,Male,50,21,Bachelor,Manager,160000
+E072,Sales,Male,27,2,Bachelor,Junior,59000
+E073,Data Science,Male,37,9,Bachelor,Senior,99000
+E074,IT,Female,37,15,Master,Manager,158000
+E075,Sales,Male,58,12,Master,Senior,117000
+E076,HR,Female,22,0,Master,Junior,59000
+E077,IT,Female,57,15,Master,Manager,120000
+E078,Sales,Female,55,20,PhD,Manager,171000
+E079,Data Science,Female,57,28,Master,Manager,227000
+E080,Data Science,Male,37,8,Master,Senior,139000
+E081,Finance,Female,50,2,Master,Junior,59000
+E082,Operations,Male,27,1,Bachelor,Junior,59000
+E083,Sales,Female,35,1,Bachelor,Junior,63000
+E084,IT,Female,35,13,Bachelor,Manager,117000
+E085,Marketing,Female,22,1,Bachelor,Junior,65000
+E086,Operations,Female,56,14,Bachelor,Manager,116000
+E087,IT,Female,46,10,Master,Senior,110000
+E088,HR,Male,56,1,Master,Junior,65000
+E089,IT,Female,49,4,Master,Mid,75000
+E090,Finance,Female,35,7,Bachelor,Mid,100000
+E091,Finance,Male,48,8,Master,Senior,106000
+E092,Finance,Male,36,2,Master,Junior,72000
+E093,HR,Male,34,13,Bachelor,Manager,102000
+E094,Marketing,Female,29,3,Bachelor,Junior,68000
+E095,HR,Female,29,2,PhD,Junior,52000
+E096,Operations,Male,46,12,PhD,Senior,111000
+E097,IT,Female,41,19,Master,Manager,153000
+E098,Operations,Female,49,21,Bachelor,Manager,157000
+E099,IT,Female,48,26,Bachelor,Manager,179000
+E100,Sales,Female,31,6,Bachelor,Mid,75000
+E101,Marketing,Male,49,26,Master,Manager,176000
+E102,Data Science,Female,27,2,Master,Junior,99000
+E103,Finance,Female,23,1,Master,Junior,53000
+E104,Data Science,Male,38,10,Bachelor,Senior,118000
+E105,Operations,Male,34,1,Bachelor,Junior,53000
+E106,Sales,Female,52,31,Bachelor,Manager,145000
+E107,HR,Female,47,22,Bachelor,Manager,165000
+E108,Marketing,Female,57,33,Bachelor,Manager,216000
+E109,Finance,Male,51,8,Bachelor,Senior,78000
+E110,Finance,Male,29,8,PhD,Senior,97000
+E111,Sales,Male,52,17,Master,Manager,151000
+E112,Data Science,Male,34,4,Bachelor,Mid,85000
+E113,Sales,Male,56,8,Bachelor,Senior,83000
+E114,Sales,Female,53,6,Master,Mid,94000
+E115,Marketing,Female,43,5,PhD,Mid,99000
+E116,IT,Male,26,3,Bachelor,Junior,52000
+E117,HR,Female,58,19,Bachelor,Manager,121000
+E118,Operations,Female,36,12,Bachelor,Senior,99000
+E119,Finance,Male,58,3,Master,Junior,84000
+E120,Sales,Male,35,4,Master,Mid,63000
+E121,HR,Female,22,1,Bachelor,Junior,51000
+E122,IT,Male,36,9,Master,Senior,99000
+E123,Finance,Male,34,6,Bachelor,Mid,82000
+E124,Finance,Female,31,1,Bachelor,Junior,51000
+E125,Marketing,Female,29,7,Master,Mid,83000
+E126,Marketing,Female,27,4,Bachelor,Mid,77000
+E127,Operations,Male,38,0,Bachelor,Junior,60000
+E128,Data Science,Female,39,18,Bachelor,Manager,160000
+E129,Operations,Female,50,29,Bachelor,Manager,185000
+E130,IT,Male,52,22,Bachelor,Manager,142000
+E131,Finance,Female,48,22,Bachelor,Manager,180000
+E132,Data Science,Female,57,2,Bachelor,Junior,71000
+E133,IT,Female,47,16,Master,Manager,148000
+E134,Marketing,Female,25,1,Bachelor,Junior,62000
+E135,Sales,Female,50,24,Bachelor,Manager,140000
+E136,Marketing,Male,53,7,Bachelor,Mid,87000
+E137,Sales,Male,32,4,Bachelor,Mid,76000
+E138,HR,Female,29,7,PhD,Mid,86000
+E139,Sales,Male,40,16,Master,Manager,147000
+E140,Marketing,Male,57,9,Bachelor,Senior,98000
+E141,Data Science,Female,26,2,Master,Junior,94000
+E142,Data Science,Female,22,1,Master,Junior,103000
+E143,Data Science,Female,31,7,Bachelor,Mid,99000
+E144,Marketing,Male,42,6,PhD,Mid,83000
+E145,Data Science,Female,48,1,Bachelor,Junior,77000
+E146,Sales,Male,31,7,PhD,Mid,89000
+E147,Data Science,Male,50,3,Bachelor,Junior,60000
+E148,Marketing,Female,31,1,Bachelor,Junior,47000
+E149,Sales,Female,27,6,Bachelor,Mid,84000
+E150,Sales,Male,53,2,Master,Junior,63000
+E151,Sales,Female,27,3,PhD,Junior,62000
+E152,HR,Female,41,0,Bachelor,Junior,34000
+E153,Finance,Male,45,13,Bachelor,Manager,122000
+E154,HR,Male,33,1,Master,Junior,66000
+E155,Marketing,Female,31,3,Bachelor,Junior,58000
+E156,Sales,Male,22,1,Master,Junior,51000
+E157,Marketing,Female,44,18,Bachelor,Manager,144000
+E158,Marketing,Female,41,6,PhD,Mid,77000
+E159,Operations,Male,44,18,Bachelor,Manager,141000
+E160,Data Science,Female,47,8,Bachelor,Senior,97000
+E161,Data Science,Male,40,7,Master,Mid,124000
+E162,Operations,Female,38,4,Master,Mid,64000
+E163,Data Science,Male,50,1,Bachelor,Junior,61000
+E164,Finance,Female,42,13,Bachelor,Manager,124000
+E165,Operations,Female,54,17,Master,Manager,145000
+E166,Sales,Male,43,3,Bachelor,Junior,47000
+E167,Data Science,Male,47,25,Bachelor,Manager,170000
+E168,Finance,Female,56,7,Bachelor,Mid,95000
+E169,Operations,Female,46,20,PhD,Manager,137000
+E170,IT,Female,57,20,Master,Manager,137000
+E171,Sales,Male,41,20,Bachelor,Manager,116000
+E172,Finance,Female,53,7,Bachelor,Mid,73000
+E173,Marketing,Female,45,21,PhD,Manager,177000
+E174,Operations,Female,31,6,Master,Mid,82000
+E175,IT,Male,45,6,Bachelor,Mid,85000
+E176,Sales,Female,45,17,Master,Manager,131000
+E177,Finance,Male,34,1,PhD,Junior,55000
+E178,Sales,Male,23,0,Master,Junior,46000
+E179,Data Science,Male,57,13,Master,Manager,154000
+E180,Data Science,Female,22,1,Master,Junior,91000
+E181,Data Science,Female,33,1,Master,Junior,56000
+E182,Data Science,Male,37,10,Bachelor,Senior,97000
+E183,Sales,Female,48,16,Bachelor,Manager,129000
+E184,Data Science,Male,45,16,Master,Manager,151000
+E185,Sales,Female,55,19,Bachelor,Manager,109000
+E186,Data Science,Male,47,13,Master,Manager,157000
+E187,IT,Female,42,19,Bachelor,Manager,135000
+E188,Marketing,Male,55,18,Bachelor,Manager,142000
+E189,Data Science,Male,29,8,Master,Senior,122000
+E190,Marketing,Female,43,14,Bachelor,Manager,118000
+E191,Marketing,Female,42,21,Bachelor,Manager,143000
+E192,IT,Female,27,6,Bachelor,Mid,70000
+E193,Data Science,Female,30,8,Bachelor,Senior,128000
+E194,Sales,Male,29,6,Bachelor,Mid,87000
+E195,Finance,Male,41,11,Bachelor,Senior,97000
+E196,Sales,Male,52,14,Master,Manager,132000
+E197,Data Science,Male,39,18,Bachelor,Manager,173000
+E198,Operations,Female,39,0,Bachelor,Junior,58000
+E199,Finance,Female,44,0,Bachelor,Junior,55000
+E200,IT,Male,31,10,PhD,Senior,128000
+E201,Marketing,Female,48,14,Bachelor,Manager,115000
+E202,Data Science,Male,58,5,Master,Mid,113000
+E203,Sales,Female,27,2,Bachelor,Junior,68000
+E204,Marketing,Male,39,6,Master,Mid,76000
+E205,Finance,Male,53,19,Bachelor,Manager,146000
+E206,IT,Female,35,4,PhD,Mid,85000
+E207,Finance,Male,29,0,Bachelor,Junior,42000
+E208,Marketing,Female,56,14,Bachelor,Manager,140000
+E209,IT,Male,47,23,Bachelor,Manager,154000
+E210,Data Science,Female,42,18,Bachelor,Manager,177000
+E211,Finance,Female,29,6,Bachelor,Mid,67000
+E212,Data Science,Female,45,2,Bachelor,Junior,70000
+E213,Operations,Female,47,16,Bachelor,Manager,134000
+E214,HR,Male,43,5,Bachelor,Mid,61000
+E215,Data Science,Male,44,11,Master,Senior,127000
+E216,IT,Male,31,4,Bachelor,Mid,68000
+E217,HR,Female,53,29,Master,Manager,203000
+E218,Data Science,Female,42,4,Bachelor,Mid,97000
+E219,Data Science,Female,39,18,Bachelor,Manager,144000
+E220,Marketing,Male,50,1,Bachelor,Junior,39000
+E221,Operations,Male,54,24,Bachelor,Manager,175000
+E222,Marketing,Male,58,12,Bachelor,Senior,107000
+E223,IT,Male,50,3,Master,Junior,62000
+E224,IT,Female,37,14,PhD,Manager,136000
+E225,Finance,Male,40,12,Bachelor,Senior,112000
+E226,Data Science,Female,43,2,Bachelor,Junior,81000
+E227,Finance,Female,31,5,Bachelor,Mid,66000
+E228,Finance,Female,47,4,Master,Mid,77000
+E229,Sales,Female,43,4,Master,Mid,67000
+E230,Operations,Female,45,0,Bachelor,Junior,40000
+E231,Data Science,Male,53,12,Bachelor,Senior,107000
+E232,Finance,Female,28,0,Master,Junior,48000
+E233,HR,Female,32,2,Master,Junior,54000
+E234,IT,Female,48,11,Master,Senior,110000
+E235,HR,Female,56,15,Bachelor,Manager,147000
+E236,Data Science,Female,34,5,Master,Mid,110000
+E237,Data Science,Male,46,16,Bachelor,Manager,133000
+E238,Data Science,Male,38,1,Master,Junior,66000
+E239,Finance,Male,27,6,Bachelor,Mid,93000
+E240,Data Science,Female,49,2,PhD,Junior,99000
+E241,IT,Female,48,1,Bachelor,Junior,56000
+E242,IT,Male,45,7,Bachelor,Mid,85000
+E243,HR,Female,24,2,Master,Junior,53000
+E244,Marketing,Male,22,0,Bachelor,Junior,60000
+E245,Operations,Female,55,27,Bachelor,Manager,154000
+E246,IT,Male,25,1,Bachelor,Junior,71000
+E247,IT,Female,53,1,Master,Junior,55000
+E248,Marketing,Male,22,1,Bachelor,Junior,43000
+E249,Operations,Male,45,2,PhD,Junior,79000
+E250,Marketing,Male,52,2,Master,Junior,70000
+E251,Finance,Male,26,2,Bachelor,Junior,65000
+E252,Data Science,Male,43,4,Bachelor,Mid,91000
+E253,Data Science,Male,51,22,Bachelor,Manager,149000
+E254,Sales,Male,51,1,Bachelor,Junior,45000
+E255,Finance,Female,41,16,Bachelor,Manager,147000
+E256,Finance,Female,24,1,Bachelor,Junior,42000
+E257,Finance,Female,29,5,Bachelor,Mid,83000
+E258,Marketing,Female,43,5,Bachelor,Mid,69000
+E259,Data Science,Male,27,5,Bachelor,Mid,111000
+E260,Operations,Female,40,10,Bachelor,Senior,101000
+E261,Finance,Female,50,19,Master,Manager,141000
+E262,Marketing,Male,24,2,Master,Junior,67000
+E263,IT,Male,47,11,Bachelor,Senior,107000
+E264,HR,Female,50,1,Bachelor,Junior,61000
+E265,Finance,Female,46,18,Bachelor,Manager,136000
+E266,Finance,Female,45,14,Master,Manager,135000
+E267,Marketing,Male,42,20,Bachelor,Manager,116000
+E268,Marketing,Female,55,24,Master,Manager,159000
+E269,Sales,Male,50,6,PhD,Mid,100000
+E270,IT,Male,30,1,Bachelor,Junior,70000
+E271,Data Science,Female,42,21,Bachelor,Manager,168000
+E272,Finance,Female,32,11,Master,Senior,109000
+E273,Operations,Female,36,3,PhD,Junior,63000
+E274,IT,Male,45,17,Bachelor,Manager,131000
+E275,IT,Female,41,12,PhD,Senior,147000
+E276,Data Science,Male,48,26,Bachelor,Manager,170000
+E277,Marketing,Male,51,21,Bachelor,Manager,148000
+E278,Data Science,Male,30,6,Bachelor,Mid,79000
+E279,Finance,Female,32,2,Bachelor,Junior,52000
+E280,Operations,Female,40,2,Bachelor,Junior,59000
+E281,HR,Male,41,19,Bachelor,Manager,148000
+E282,Operations,Male,31,2,Master,Junior,61000
+E283,Data Science,Female,23,0,Bachelor,Junior,86000
+E284,Sales,Female,35,12,Bachelor,Senior,92000
+E285,Sales,Female,56,18,Master,Manager,136000
+E286,Finance,Female,51,2,Master,Junior,62000
+E287,Marketing,Female,35,5,Master,Mid,75000
+E288,Marketing,Male,30,5,Bachelor,Mid,64000
+E289,Marketing,Male,29,4,Bachelor,Mid,54000
+E290,Finance,Female,46,19,Bachelor,Manager,144000
+E291,Operations,Female,42,6,Master,Mid,83000
+E292,Finance,Female,53,1,Bachelor,Junior,56000
+E293,HR,Female,35,9,Bachelor,Senior,79000
+E294,Operations,Male,52,18,Bachelor,Manager,123000
+E295,Finance,Male,45,24,Bachelor,Manager,141000
+E296,Operations,Female,57,12,Bachelor,Senior,88000
+E297,Operations,Male,50,24,Bachelor,Manager,183000
+E298,HR,Female,28,6,Bachelor,Mid,76000
+E299,Data Science,Male,31,3,Master,Junior,69000
+E300,IT,Male,30,5,Master,Mid,78000
+E301,Finance,Female,42,5,Bachelor,Mid,86000
+E302,Operations,Female,43,16,Master,Manager,147000
+E303,Marketing,Female,23,1,Bachelor,Junior,50000
+E304,Data Science,Male,23,2,Bachelor,Junior,94000
+E305,Sales,Male,25,4,Bachelor,Mid,74000
+E306,Data Science,Male,37,1,Bachelor,Junior,59000
+E307,IT,Female,50,10,Bachelor,Senior,99000
+E308,Operations,Female,52,3,Master,Junior,68000
+E309,Sales,Female,52,24,Bachelor,Manager,157000
+E310,Operations,Female,44,21,Master,Manager,174000
+E311,Operations,Male,52,12,PhD,Senior,108000
+E312,Finance,Female,40,6,Master,Mid,85000
+E313,Operations,Female,39,9,Bachelor,Senior,100000
+E314,Marketing,Male,44,4,Bachelor,Mid,75000
+E315,Finance,Male,50,20,Bachelor,Manager,141000
+E316,Data Science,Male,56,17,Master,Manager,156000
+E317,Operations,Male,37,7,Bachelor,Mid,73000
+E318,IT,Male,28,6,Bachelor,Mid,71000
+E319,IT,Male,57,10,Bachelor,Senior,118000
+E320,Data Science,Male,40,10,Bachelor,Senior,95000
+E321,Operations,Female,24,1,Bachelor,Junior,37000
+E322,Data Science,Female,53,11,Master,Senior,101000
+E323,Operations,Female,28,5,Bachelor,Mid,76000
+E324,HR,Female,54,29,Bachelor,Manager,187000
+E325,HR,Female,51,20,Bachelor,Manager,118000
+E326,Data Science,Female,40,18,Master,Manager,172000
+E327,Data Science,Male,49,16,Bachelor,Manager,172000
+E328,HR,Female,30,7,Bachelor,Mid,60000
+E329,Marketing,Male,37,14,Master,Manager,128000
+E330,Finance,Female,45,22,Bachelor,Manager,154000
+E331,Finance,Male,32,6,Master,Mid,95000
+E332,Sales,Male,40,11,Master,Senior,112000
+E333,Marketing,Male,45,13,Master,Manager,138000
+E334,Data Science,Male,37,2,Bachelor,Junior,79000
+E335,Operations,Male,29,0,Master,Junior,56000
+E336,HR,Female,42,16,Bachelor,Manager,128000
+E337,IT,Female,54,28,Master,Manager,201000
+E338,Marketing,Female,58,3,Bachelor,Junior,72000
+E339,Sales,Male,23,1,Bachelor,Junior,46000
+E340,IT,Female,49,11,Master,Senior,100000
+E341,IT,Female,40,13,Bachelor,Manager,127000
+E342,Marketing,Male,50,27,Master,Manager,160000
+E343,Sales,Male,44,3,Bachelor,Junior,66000
+E344,Sales,Female,36,0,Master,Junior,64000
+E345,Data Science,Male,36,7,Bachelor,Mid,93000
+E346,Sales,Male,29,0,Master,Junior,38000
+E347,HR,Male,26,0,Master,Junior,62000
+E348,HR,Male,24,3,Bachelor,Junior,51000
+E349,HR,Female,54,18,Bachelor,Manager,150000
+E350,Operations,Male,42,7,Bachelor,Mid,81000
+E351,Marketing,Male,41,8,Bachelor,Senior,106000
+E352,Sales,Female,49,17,Bachelor,Manager,136000
+E353,Sales,Female,48,13,Bachelor,Manager,109000
+E354,HR,Female,36,9,Master,Senior,81000
+E355,Marketing,Male,57,33,Bachelor,Manager,172000
+E356,Finance,Male,27,3,Master,Junior,76000
+E357,IT,Male,39,12,Master,Senior,106000
+E358,Data Science,Male,57,13,Bachelor,Manager,135000
+E359,HR,Male,34,11,Bachelor,Senior,107000
+E360,Sales,Female,35,6,Master,Mid,82000
+E361,Marketing,Female,56,22,Bachelor,Manager,150000
+E362,Marketing,Female,28,7,Master,Mid,79000
+E363,Marketing,Female,24,1,Master,Junior,59000
+E364,Finance,Male,31,3,Bachelor,Junior,65000
+E365,Marketing,Female,57,21,Bachelor,Manager,165000
+E366,Marketing,Female,32,11,Master,Senior,107000
+E367,HR,Male,56,3,Bachelor,Junior,63000
+E368,Data Science,Male,22,1,Bachelor,Junior,67000
+E369,Sales,Male,31,0,Bachelor,Junior,53000
+E370,Operations,Female,52,31,Bachelor,Manager,194000
+E371,IT,Female,23,2,Master,Junior,51000
+E372,Data Science,Male,33,1,Master,Junior,72000
+E373,Operations,Female,55,16,Master,Manager,117000
+E374,Marketing,Female,51,18,Bachelor,Manager,138000
+E375,Sales,Male,27,5,PhD,Mid,71000
+E376,Marketing,Male,46,12,Bachelor,Senior,101000
+E377,Sales,Male,32,1,Bachelor,Junior,54000
+E378,Operations,Female,24,1,Bachelor,Junior,56000
+E379,Finance,Male,24,0,Master,Junior,62000
+E380,HR,Female,42,0,PhD,Junior,66000
+E381,IT,Female,41,5,Bachelor,Mid,87000
+E382,Marketing,Male,30,1,Bachelor,Junior,38000
+E383,Marketing,Female,36,2,Bachelor,Junior,62000
+E384,Data Science,Male,42,0,Master,Junior,87000
+E385,Finance,Female,57,24,Bachelor,Manager,178000
+E386,IT,Female,40,7,Master,Mid,78000
+E387,Sales,Male,31,6,Bachelor,Mid,58000
+E388,Finance,Male,50,11,Master,Senior,88000
+E389,Marketing,Male,50,17,Bachelor,Manager,120000
+E390,IT,Female,44,17,Bachelor,Manager,149000
+E391,IT,Male,40,13,Bachelor,Manager,114000
+E392,Sales,Female,46,5,Bachelor,Mid,69000
+E393,HR,Female,26,1,Bachelor,Junior,45000
+E394,Data Science,Female,26,2,Bachelor,Junior,96000
+E395,Operations,Female,34,7,Bachelor,Mid,62000
+E396,Finance,Male,46,25,Master,Manager,170000
+E397,Finance,Male,42,19,PhD,Manager,141000
+E398,Marketing,Male,42,9,Master,Senior,108000
+E399,Finance,Male,46,8,Master,Senior,87000
+E400,Operations,Female,56,11,Master,Senior,115000
+E401,Sales,Female,35,7,Master,Mid,94000
+E402,HR,Female,41,7,Bachelor,Mid,82000
+E403,Data Science,Female,46,2,Bachelor,Junior,87000
+E404,Operations,Male,54,26,Bachelor,Manager,182000
+E405,IT,Female,37,11,Bachelor,Senior,96000
+E406,Data Science,Male,43,13,Bachelor,Manager,126000
+E407,Operations,Male,55,14,Bachelor,Manager,121000
+E408,Finance,Male,23,1,Bachelor,Junior,70000
+E409,IT,Female,31,5,Bachelor,Mid,74000
+E410,Finance,Female,52,6,Bachelor,Mid,81000
+E411,IT,Male,41,1,Master,Junior,66000
+E412,Sales,Female,32,11,Bachelor,Senior,86000
+E413,Operations,Male,49,14,Bachelor,Manager,126000
+E414,HR,Female,49,12,Bachelor,Senior,99000
+E415,Operations,Female,49,12,Bachelor,Senior,91000
+E416,Data Science,Female,26,4,Bachelor,Mid,81000
+E417,Finance,Female,34,7,Bachelor,Mid,98000
+E418,Operations,Male,42,19,Bachelor,Manager,143000
+E419,Finance,Female,44,14,Master,Manager,152000
+E420,Operations,Female,27,5,Bachelor,Mid,61000
+E421,IT,Male,33,5,Master,Mid,95000
+E422,Operations,Male,46,13,Bachelor,Manager,126000
+E423,Operations,Female,32,7,Bachelor,Mid,71000
+E424,Operations,Female,25,2,PhD,Junior,56000
+E425,Operations,Female,54,31,Bachelor,Manager,187000
+E426,Marketing,Male,32,1,Bachelor,Junior,62000
+E427,Finance,Female,24,2,Bachelor,Junior,48000
+E428,Operations,Female,53,32,Bachelor,Manager,161000
+E429,Operations,Male,24,3,Bachelor,Junior,47000
+E430,Finance,Female,24,3,Bachelor,Junior,52000
+E431,Data Science,Female,29,3,Bachelor,Junior,99000
+E432,Data Science,Male,49,5,Master,Mid,93000
+E433,Operations,Female,44,17,Bachelor,Manager,127000
+E434,Sales,Male,40,9,Bachelor,Senior,82000
+E435,Data Science,Male,48,1,PhD,Junior,70000
+E436,HR,Male,42,7,Master,Mid,89000
+E437,Operations,Male,39,13,Bachelor,Manager,114000
+E438,Marketing,Female,54,17,Master,Manager,138000
+E439,Operations,Female,22,0,Master,Junior,63000
+E440,Data Science,Female,26,4,Bachelor,Mid,82000
+E441,Finance,Female,42,9,Bachelor,Senior,88000
+E442,Data Science,Female,43,21,Master,Manager,176000
+E443,IT,Male,29,2,Bachelor,Junior,71000
+E444,Sales,Female,30,4,Bachelor,Mid,54000
+E445,Finance,Female,27,2,Master,Junior,50000
+E446,Sales,Male,41,7,Bachelor,Mid,61000
+E447,HR,Female,52,4,Bachelor,Mid,67000
+E448,IT,Female,22,1,Master,Junior,58000
+E449,IT,Male,36,12,Bachelor,Senior,109000
+E450,Finance,Male,45,9,Bachelor,Senior,114000
+E451,Sales,Female,31,1,Bachelor,Junior,43000
+E452,Finance,Female,35,10,Master,Senior,115000
+E453,Data Science,Female,35,1,Master,Junior,94000
+E454,Finance,Male,49,10,Master,Senior,107000
+E455,HR,Female,57,18,Master,Manager,155000
+E456,HR,Male,55,32,Bachelor,Manager,179000
+E457,Data Science,Male,37,15,Bachelor,Manager,152000
+E458,Operations,Female,22,1,Master,Junior,70000
+E459,Finance,Male,56,11,Master,Senior,100000
+E460,IT,Female,38,6,Bachelor,Mid,86000
+E461,Sales,Male,54,26,Bachelor,Manager,151000
+E462,Finance,Male,27,2,Bachelor,Junior,74000
+E463,Operations,Male,42,12,Master,Senior,128000
+E464,Finance,Male,49,23,PhD,Manager,150000
+E465,Marketing,Male,29,7,Master,Mid,86000
+E466,IT,Female,22,0,Master,Junior,67000
+E467,HR,Male,45,4,Master,Mid,80000
+E468,Finance,Male,49,8,Bachelor,Senior,98000
+E469,Marketing,Male,51,16,Bachelor,Manager,144000
+E470,Finance,Male,32,4,Master,Mid,89000
+E471,HR,Male,54,0,Bachelor,Junior,40000
+E472,Marketing,Female,45,12,Master,Senior,104000
+E473,HR,Female,42,7,Bachelor,Mid,77000
+E474,Data Science,Male,26,4,Bachelor,Mid,72000
+E475,HR,Female,55,2,PhD,Junior,68000
+E476,Data Science,Female,41,10,Bachelor,Senior,98000
+E477,HR,Female,40,18,Master,Manager,148000
+E478,Finance,Male,53,12,Master,Senior,105000
+E479,Marketing,Male,23,0,Bachelor,Junior,61000
+E480,Finance,Male,22,1,Master,Junior,49000
+E481,Operations,Female,37,13,Bachelor,Manager,98000
+E482,IT,Female,24,1,Master,Junior,72000
+E483,Sales,Male,27,4,Bachelor,Mid,72000
+E484,Operations,Female,58,3,Bachelor,Junior,50000
+E485,Finance,Female,42,12,Master,Senior,116000
+E486,Finance,Male,36,2,PhD,Junior,82000
+E487,HR,Male,28,2,Bachelor,Junior,52000
+E488,Operations,Male,44,6,Bachelor,Mid,69000
+E489,IT,Male,32,10,Bachelor,Senior,94000
+E490,Data Science,Female,42,4,Bachelor,Mid,90000
+E491,Operations,Female,25,2,Bachelor,Junior,40000
+E492,Data Science,Male,50,17,Master,Manager,160000
+E493,Data Science,Male,30,1,Bachelor,Junior,67000
+E494,HR,Female,47,11,Master,Senior,112000
+E495,Data Science,Female,26,0,PhD,Junior,106000
+E496,Data Science,Male,30,1,Master,Junior,66000
+E497,Marketing,Female,25,1,Master,Junior,59000
+E498,IT,Male,46,21,Bachelor,Manager,147000
+E499,Finance,Male,39,14,Master,Manager,126000
+E500,Sales,Male,40,15,Bachelor,Manager,141000
